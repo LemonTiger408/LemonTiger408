@@ -16,7 +16,7 @@ QuantumCrawler 是一个专为 QuantumMind 项目设计的智能爬虫系统，�
 ## 使用方法
 1. 克隆此仓库：
    ```bash
-   git clone https://github.com/LemonTiger408/QuantumCrawler.git
+   git clone https://github.com/Lemon/QuantumCrawler.git
 
 
 <!---
